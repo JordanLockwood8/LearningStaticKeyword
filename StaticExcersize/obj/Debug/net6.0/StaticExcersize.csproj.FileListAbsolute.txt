@@ -1,0 +1,15 @@
+C:\Users\install\OneDrive\Desktop\Repos\LearningStatickeyword\StaticExcersize\StaticExcersize\bin\Debug\net6.0\StaticExcersize.exe
+C:\Users\install\OneDrive\Desktop\Repos\LearningStatickeyword\StaticExcersize\StaticExcersize\bin\Debug\net6.0\StaticExcersize.deps.json
+C:\Users\install\OneDrive\Desktop\Repos\LearningStatickeyword\StaticExcersize\StaticExcersize\bin\Debug\net6.0\StaticExcersize.runtimeconfig.json
+C:\Users\install\OneDrive\Desktop\Repos\LearningStatickeyword\StaticExcersize\StaticExcersize\bin\Debug\net6.0\StaticExcersize.dll
+C:\Users\install\OneDrive\Desktop\Repos\LearningStatickeyword\StaticExcersize\StaticExcersize\bin\Debug\net6.0\StaticExcersize.pdb
+C:\Users\install\OneDrive\Desktop\Repos\LearningStatickeyword\StaticExcersize\StaticExcersize\obj\Debug\net6.0\StaticExcersize.csproj.AssemblyReference.cache
+C:\Users\install\OneDrive\Desktop\Repos\LearningStatickeyword\StaticExcersize\StaticExcersize\obj\Debug\net6.0\StaticExcersize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\install\OneDrive\Desktop\Repos\LearningStatickeyword\StaticExcersize\StaticExcersize\obj\Debug\net6.0\StaticExcersize.AssemblyInfoInputs.cache
+C:\Users\install\OneDrive\Desktop\Repos\LearningStatickeyword\StaticExcersize\StaticExcersize\obj\Debug\net6.0\StaticExcersize.AssemblyInfo.cs
+C:\Users\install\OneDrive\Desktop\Repos\LearningStatickeyword\StaticExcersize\StaticExcersize\obj\Debug\net6.0\StaticExcersize.csproj.CoreCompileInputs.cache
+C:\Users\install\OneDrive\Desktop\Repos\LearningStatickeyword\StaticExcersize\StaticExcersize\obj\Debug\net6.0\StaticExcersize.dll
+C:\Users\install\OneDrive\Desktop\Repos\LearningStatickeyword\StaticExcersize\StaticExcersize\obj\Debug\net6.0\refint\StaticExcersize.dll
+C:\Users\install\OneDrive\Desktop\Repos\LearningStatickeyword\StaticExcersize\StaticExcersize\obj\Debug\net6.0\StaticExcersize.pdb
+C:\Users\install\OneDrive\Desktop\Repos\LearningStatickeyword\StaticExcersize\StaticExcersize\obj\Debug\net6.0\StaticExcersize.genruntimeconfig.cache
+C:\Users\install\OneDrive\Desktop\Repos\LearningStatickeyword\StaticExcersize\StaticExcersize\obj\Debug\net6.0\ref\StaticExcersize.dll
