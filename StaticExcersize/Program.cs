@@ -1,5 +1,8 @@
 ﻿using StaticExcersize;
-Console.WriteLine("Celcius:" + TempConverter.FahrenheitToCelsius(32));
-Console.WriteLine("Celcius:" + TempConverter.FahrenheitToCelsius(100));
-Console.WriteLine("Fahrenheit:" + TempConverter.CelsiusToFahrenheit(0));
-Console.WriteLine("Fahrenheit:" + TempConverter.CelsiusToFahrenheit(37.00));
+Console.WriteLine("Celcius:" + Math.Round(TempConverter.FahrenheitToCelsius(32),2));
+
+Console.WriteLine("Celcius:" + Math.Round(TempConverter.FahrenheitToCelsius(100),2));
+
+Console.WriteLine("Fahrenheit:" + Math.Round(TempConverter.CelsiusToFahrenheit(0),2));
+
+Console.WriteLine("Fahrenheit:" + Math.Round(TempConverter.CelsiusToFahrenheit(37.00),2));
